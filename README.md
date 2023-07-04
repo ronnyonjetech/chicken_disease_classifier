@@ -1,5 +1,5 @@
 # chicken_disease_classifier
-
+![imageclassifier](https://github.com/ronnyonjetech/chicken_disease_classifier/assets/63746922/62fef7e3-fb4f-454f-bd94-e6b7017528e1)
 ## Workflows
 
 1. Update config.yaml
